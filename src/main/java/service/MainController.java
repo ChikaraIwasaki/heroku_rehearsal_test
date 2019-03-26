@@ -9,6 +9,7 @@ public class MainController {
 
     @RequestMapping("/")
     String hello() {
-        return "hello world_feature01_modified";
+        return "hello world_feature01_modified_feature02_2_added";
     }
+    // feature02_2_added
 }
